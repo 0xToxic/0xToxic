@@ -22,7 +22,7 @@ When I'm not immersed in lines of code, you'll probably find me binging the late
 
 Feel free to reach out if you share my interests, want to discuss code, need advice on cybersecurity, or just want to swap anime recommendations! Let's connect and make the GitHub community an even more exciting place.
 
-- GitHub: [github.com/YourUsername](https://github.com/0xToxic
+- GitHub: [github.com/0xToxic]
 - YouTube: [@Toxfc](www.youtube.com/@Toxfc)
 
 Looking forward to connecting with amazing people like you. Keep coding, stay secure, and embrace the adventure!
